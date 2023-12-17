@@ -1,0 +1,134 @@
+body{
+    background-color:rgb(245 245 245);
+    }
+    div{
+    
+    padding:5px;
+    margin: 0 auto;
+    padding:50; 
+    background-color:white;
+    
+    }
+    .a{
+        background-color:rgb(245 245 245);
+        height:500px;
+        width:500px;
+        float:left;
+    }
+    .page{
+        margin-left:300px;
+        float:left;
+        height:700px;
+        width:
+    }
+
+    #image{
+        height:800px;
+        width:700px;
+        color:white;
+        
+        margin-right:50px;
+    }
+    .block{
+        float:left;
+        text-align:center;
+        margin-top:40px;
+        
+        height:650px;
+        width:550px;
+    
+    }
+    .b{
+        line-height:10px;
+        margin-bottom:20px;
+        text-align:left;
+        font-family:arial;
+    }
+    .email{
+        text-align:left;
+        font-size:20px;
+        font-family:arial;
+        margin-bottom:5px;
+    }
+    .adrs{
+        font-family:arial;
+    text-align:left;
+    margin-bottom:2px;
+    }
+    
+        .adrs input{
+            border-color:lightgrey;
+            width:500px;
+    font-size:20px;		
+        height:40px;
+        margin:auto;
+    }
+    .pass{
+        font-family:arial;
+    text-align:left;
+    margin-top:25px;
+    font-size:20px;		
+    }
+    .passw {
+        font-family:arial;
+    text-align:left;
+    margin-bottom:2px;
+    }
+    .passw input{
+        border-color:lightgrey;
+            width:500px;
+    font-size:20px;		
+        height:40px;
+        margin:auto;
+    }
+    .rem{
+        font-family:arial;
+    text-align:left;
+    margin-left:45px;
+    float:left;
+    }
+    .for a{
+        float:left;
+        color:rgb(1 117 96);
+        font-family:arial;
+        margin-left:110px;
+         text-decoration:none;
+    }
+    .s{
+        height:40px;
+        float:left;
+        width:500px;
+        text-align:center;
+        margin-left:25px;
+        margin-top:30px;
+        background-color:rgb(1 117 96);
+        border-color:rgb(1 117 96);
+        color:white;
+        font-size:18px;
+    }
+    .sgn{
+        color:lightgrey;
+        font-family:arial;
+        margin-top:60px;
+    }
+    /*.icon{
+        float:left;
+        height:50px;
+        width:50px;
+        margin-left:80px;
+        border:5px solid red;
+        color:rgb(1 117 96);
+    }*/
+    .do{
+        float:left;
+        font-family:arial;
+        margin-left:120px;
+        margin-top:15px;
+    }
+    .crt a{
+        float:left;
+        margin-top:20px;
+        font-family:arial;
+        text-decoration:none;
+        color:rgb(1 117 96);
+    }

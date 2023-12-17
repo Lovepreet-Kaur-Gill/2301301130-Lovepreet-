@@ -1,0 +1,235 @@
+*{
+	text-decoration:none;
+	padding:none;
+	margin: none;
+}
+.header{
+	
+	height:80px;
+	width:1300px;
+}
+.images{
+	padding-left:40px;
+	float:left;
+	padding-right:250px;
+}
+#unq{
+	margin-left:200px;
+}
+.menu ul li {
+	float:left;
+	list-style:none;
+	padding-left:40px;
+	padding-top:20px;
+	font-family:arial;
+}
+.menu ul li a{
+	color:black;
+	
+} 
+.menu{
+	font-style:arial;
+	float:left;
+	
+}
+
+.menu ul button{
+	background-color:red;
+	border-radius:6px;
+	margin-bottom:20px;
+	border-color:red;
+	color:white;
+	height:40px;
+	float:left;
+	padding :10px;
+	margin-left:35px;
+
+}
+.main{
+	height:200px;
+	text-align:center;
+	font-family:arial;
+}
+#h{
+	line-height:10px;
+}
+#heading{
+	font-size:40px;
+}
+#m{
+	background-color:red;
+	border-color:red;
+	color:white;
+	height:35px;
+}
+#l{
+	border-color:blue;
+	color:blue;
+	height:35px;
+}
+.process{
+
+	font-family:arial;
+	text-align:center;
+	height:456px;
+	
+}
+.a{
+	margin-top:20px;
+	font-family:arial;
+	color :red;
+}
+.process img{
+	float:left;
+	padding-top:20px;
+	margin-right:0 px;
+}
+.text{
+	float :left;
+	padding-top:20px;
+	width:600px;
+	text-align:left;
+	padding-left:50px;
+	line-height:25px;
+}
+
+.tag{
+	border-radius:45% 55% 55% 57%;
+	background-color:lavender;
+	width:60px;
+	text-align:center;
+	padding:10px;
+	color:grey;
+	height:35px;
+}
+
+.photo{
+	float:left;
+margin-right:100px;
+margin-top:20px;
+}
+.stext{
+	width:650px;
+	float:left;
+	margin-left:200px;
+	text-align:left;
+	line-height:25px;
+	margin-right:50px;
+	margin-top:20px;
+	font-family:arial;
+	padding-bottom:25px;
+}
+.stag{
+	border-radius:45% 55% 55% 57%;
+	background-color:lavender;
+	width:60px;
+	text-align:center;
+	padding:10px;
+	color:grey;
+	height:35px;
+}
+.all{
+	height:360px;
+
+	float:left;
+}
+.ttext{
+	float :left;
+	padding-top:20px;
+	width:650px;
+	text-align:left;
+	padding-left:10px;
+	line-height:25px;
+	
+}
+.timage{
+	float:left;
+	margin-right:50px;
+	margin-left:200px;
+	margin-top:20px;
+}
+.ttag{
+	border-radius:45% 55% 55% 57%;
+	background-color:lavender;
+	width:60px;
+	text-align:center;
+	padding:10px;
+	color:grey;
+	height:35px;
+}
+.ftext{
+	width:650px;
+	float:left;
+	margin-left:200px;
+	text-align:left;
+	line-height:25px;
+	margin-right:50px;
+	margin-top:20px;
+	font-family:arial;
+	padding-bottom:25px;
+}
+.ftag{
+	border-radius:45% 55% 55% 57%;
+	background-color:lavender;
+	width:60px;
+	text-align:center;
+	padding:10px;
+	color:grey;
+	height:35px;
+}
+.fimage{
+	float:left;
+margin-right:100px;
+margin-top:20px;
+}
+
+.tfy{
+	color :blue;
+	text-align:left;
+}
+.acc{
+	line-height:5px;
+	text-align:left;
+}
+.footer{
+	float:left;
+	height:550px;
+	width:1000px;
+		
+	margin-left:200px;
+}
+.i{
+	
+	height:180px;
+	width:200px;
+	float :left;
+margin-right:50px;
+text-align:left;
+     margin-top:0px;
+}
+.fvtext{
+	float:left;
+	width:900px;
+	text-align:left;
+	margin-left:200px;
+}
+.z{
+	font-size:20px;
+	text-align:left;
+}
+#ef{
+     margin-bottom:2px;
+}
+.pic{
+	margin-top:1px;
+	text-align:left;
+}
+.spic{
+	margin-top:19px;
+}
+.fpic{
+	margin-top:17px;
+}
+.left{
+	
+}

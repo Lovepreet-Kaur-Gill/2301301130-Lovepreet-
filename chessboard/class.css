@@ -1,0 +1,28 @@
+body{
+	
+	align-items:center;
+	justify-content:center;
+}
+
+
+
+	
+	.all{
+		border:5px solid black;
+		width:640px;
+		height:640px;
+		margin: 0 auto;
+	}
+	
+	.blackbox {
+		background-color:black;
+		height:80px;
+		width:80px;
+		float:left;
+	}
+	.whitebox{
+		background-color:white;
+		height:80px;
+		width:80px;
+		float:left;
+	}
